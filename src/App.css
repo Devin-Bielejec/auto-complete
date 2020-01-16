@@ -1,0 +1,14 @@
+.autoComplete {
+  margin: 20px auto;
+  width: 30%;
+  max-width: 500px;
+}
+
+.selected {
+  background-color: lightgrey;
+}
+
+.suggestions {
+  list-style-type: none;
+  padding: 0;
+}
